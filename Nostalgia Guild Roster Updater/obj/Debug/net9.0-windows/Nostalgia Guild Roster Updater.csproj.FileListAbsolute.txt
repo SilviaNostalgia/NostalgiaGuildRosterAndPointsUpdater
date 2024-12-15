@@ -1,0 +1,27 @@
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\Nostalgia Guild Roster Updater.csproj.AssemblyReference.cache
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\Nostalgia_Guild_Roster_Updater.Form1.resources
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\Nostalgia Guild Roster Updater.csproj.GenerateResource.cache
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\Nostalgia Guild Roster Updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\Nostalgia Guild Roster Updater.AssemblyInfoInputs.cache
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\Nostalgia Guild Roster Updater.AssemblyInfo.cs
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\Nostalgia Guild Roster Updater.csproj.CoreCompileInputs.cache
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\Nostalgia Guild Roster Updater.sourcelink.json
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\bin\Debug\net9.0-windows\Nostalgia Guild Roster Updater.exe
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\bin\Debug\net9.0-windows\Nostalgia Guild Roster Updater.deps.json
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\bin\Debug\net9.0-windows\Nostalgia Guild Roster Updater.runtimeconfig.json
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\bin\Debug\net9.0-windows\Nostalgia Guild Roster Updater.dll
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\bin\Debug\net9.0-windows\Nostalgia Guild Roster Updater.pdb
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\bin\Debug\net9.0-windows\CsvHelper.dll
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\bin\Debug\net9.0-windows\Google.Apis.dll
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\bin\Debug\net9.0-windows\Google.Apis.Auth.dll
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\bin\Debug\net9.0-windows\Google.Apis.Core.dll
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\bin\Debug\net9.0-windows\Google.Apis.Sheets.v4.dll
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\bin\Debug\net9.0-windows\System.Management.dll
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\Nostalgi.88B0EE9C.Up2Date
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\Nostalgia Guild Roster Updater.dll
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\refint\Nostalgia Guild Roster Updater.dll
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\Nostalgia Guild Roster Updater.pdb
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\Nostalgia Guild Roster Updater.genruntimeconfig.cache
+C:\Users\fuck\Documents\GitHub\NostalgiaGuildRosterAndPointsUpdater\Nostalgia Guild Roster Updater\obj\Debug\net9.0-windows\ref\Nostalgia Guild Roster Updater.dll

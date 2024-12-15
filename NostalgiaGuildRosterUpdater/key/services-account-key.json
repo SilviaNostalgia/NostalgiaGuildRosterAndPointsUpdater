@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "eng-braid-444706-h7",
+  "private_key_id": "9467357e0cb661589e66f642572859ce2dece08f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxbn1+c88UzUnB\nBO3ldoBAVZFcmkbVJRK7aMn7mwVLXLyh/XoWw9yqlOOJOY1lrKfHTYEfxOQa3CHV\nfVqZW1MigawRbwkdo/BO0csQAAldkP0Ud07lVHu7dRiU4EONQy1Vxt3n3xZ9QpPD\nUq4YXlbleT+ehyu7Xt7FsgpBxfz0AfZH7pQ+C15QdSEa9ypZAtvcjAoPN0wVFp+V\nBAH9zMHwIpzpygiXgQkR4UbsLJwCkTXg51gugkmCjf/NpbwS5fiwvFxFKwz+junK\nvb2IuG/Sz9aH22zmHAf8U4UvD+pfoBiT/FLndhVP6cKTdUU4btaOm+07lE3X07Qq\nWgJmCj0fAgMBAAECggEAGNkaZg0d4RHm1Es2bb4ss9XH56oLZWott2UzdDL/iNBR\n8nWnFW0UiCcVvm/651RIotat0J8oOsK9UkKd34A0ok56pG5iXm5JByDGSVVX+myF\npMoYmHE+asA5UxAdJblUrgCNrx1E7wHV47K+gtcjYDuctzzC2RiuJg2K9i8d/6XS\nd9ZyRGt7UIq345LFrd00mQpQ1QmlabaVgYlEfwvgT8ZQ88Fxpx+ObYg3dt8aaHYC\ntSt4sRi6zxitpvP+/iHvroAZTUTHuUE9NDovPUGlY96Fo6h9CwBhvhXdXRWroo87\ntYIKy61BU+idchb6KnWSRsPFQzTfq0Z9Ki/VUD5lEQKBgQDziOsnlzG7yHJ7GC4R\njsxGUCwt/tGEesgyRlJtKFhpDve9hanIVkC34TWqMICni5/f7OlW/bNyddOKJwlP\nkZosmHxdof216f2b5eNw99tRwlLonMPi1pe+jtfZCJZu2PrOM2GPrGg0IZgikUCH\n4Q17YElZxK2Bd+KauMkaVMWpYwKBgQC6g2isHJCQLVudTNmvnciBoEOxA//1XWN6\n3CTx7mFXmzHhntttl72uCvD7UKi9TgpLi0cWbdqAebEfXF7IRMxxp3Up8dUdkH8M\nsgyTpvxlJhRYWihPqtb+/yZyjZfdlzCUYldA7GUn8LuxAOlBLaj23n35+JlmOiup\ndo8UW+rIFQKBgHx/Ly/DFDKaKyQQXWSuanE7hQpSbQtbtUI2Pub8rA2xECb70KrQ\npS8bW1LQjsSYFTflJfhJo9XMtEK46AKcPYO0xEcdi9TWdMagxB+5JY5rV/UARweM\ninBpF6EkybqLA9Qr4iEPkwmrbtmlBacw/rJmq7jPWZ+JCPftpSjn01BfAoGAH1M4\nvkdh5EUp8OZaXUtzxImlNNLGJ3CS56yXq+ZshOk03H7wvZxRqCyAQsVOQdUcl4mB\n2/uBSjimDe1Woe4kJCaK4AuUzo1ZOUmiIR5Xn6lgm2IxCQhZaaRy0aSEUBw3dYR6\nwRWy+51L+LN9eYvwp93AbL5bDTdR4/lcmH/Dk+0CgYA62mXkosY+iTGDyUZxFPaw\nA7WKy1Xl37n1HoCBId/rT7FFdN/cyYcTkEhARShvxB1CeRxJZ2tl64uwmfIATpBv\nyONVCQOL1kGEaqbGsAJBMFuGi9aRElMZIJNJcRnCyEyZT1oJ9X/p2/Bkc9BHutxa\n9HkPuIsn005j8fQV31UtQw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nostalgia-guild-leadership@eng-braid-444706-h7.iam.gserviceaccount.com",
+  "client_id": "111244321133940820294",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nostalgia-guild-leadership%40eng-braid-444706-h7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
